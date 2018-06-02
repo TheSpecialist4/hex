@@ -145,7 +145,7 @@ int show_error_message(ErrorCode e) {
         case OK:
             break;
         case USAGE:
-            message = "Usage: bob p1type p2type [height width | filename]\n";
+            message = "Usage: hex p1type p2type [height width | filename]\n";
             break;
         case PLAYER_TYPE:
             message = "Invalid type\n";
