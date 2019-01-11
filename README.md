@@ -20,5 +20,10 @@ The player with 'X' wins the above game (top and bottom walls of the board conne
  - m - manual 
  - a - computer
  
+ #### Other args:
+ - height - height of the board
+ - width - width of the board
+ - filename - name of the file to load a previously saved game from
+ 
 ## Installation
 Just run `make` in the directory to create the executable.
